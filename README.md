@@ -5,8 +5,8 @@ List of dependencies :
 - dotenv
 - Nodemon
 - uuid
-- Winston 
+- Winston
 - cookie-parser
 - CORS
 
-Use npm install to install al dependencies
+Use npm install to install all dependencies
