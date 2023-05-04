@@ -1,6 +1,6 @@
 # backend-boilerplate
 
-List of dependecies :
+List of dependencies :
 - Express
 - dotenv
 - Nodemon
@@ -8,3 +8,5 @@ List of dependecies :
 - Winston 
 - cookie-parser
 - CORS
+
+Use npm install to install al dependencies
